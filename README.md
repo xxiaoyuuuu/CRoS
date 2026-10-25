@@ -1,10 +1,25 @@
-# CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness
+<div align="center">
 
-[Xiao Yu](https://xiaoyu-1217.github.io/) · Justin Chih-Yao Chen · Zaid Khan · Hyunji Lee · Mohit Bansal
+<h1>CRoS: Causality Reward on Scrambled CoTs<br>Improves Accuracy and Reasoning Faithfulness</h1>
 
-UNC Chapel Hill
+<p>
+<a href="https://xiaoyu-1217.github.io/">Xiao Yu</a>&emsp;
+<a href="https://dinobby.github.io/">Justin Chih-Yao Chen</a>&emsp;
+<a href="https://zaidkhan.me/">Zaid Khan</a>&emsp;
+<a href="https://amy-hyunji.github.io/">Hyunji Lee</a>&emsp;
+<a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>
+</p>
 
-**Paper** (arXiv, coming soon) · [**Models**](https://huggingface.co/xxiaoyuuuu) · [**Evaluation outputs**](https://huggingface.co/datasets/xxiaoyuuuu/Gemma-3-4B-IT-CRoS-eval)
+<p>UNC Chapel Hill</p>
+
+<p>
+<img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
+<a href="https://github.com/xxiaoyuuuu/CRoS"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+<a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Hugging%20Face-FFD21E?style=for-the-badge" alt="Model"></a>
+<a href="#citation"><img src="https://img.shields.io/badge/BibTeX-Citation-4c4c4c?style=for-the-badge" alt="BibTeX"></a>
+</p>
+
+</div>
 
 **TL;DR:** CRoS (Causality Reward on Scrambled CoTs) proposes a causality reward that incorporates the causal
 relationship between the CoT and the final answer into the outcome reward to improve both accuracy and reasoning
