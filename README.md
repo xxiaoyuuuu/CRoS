@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title_dark.svg">
-  <img src="assets/title.svg" alt="CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness" width="860">
+  <img src="assets/title.svg" alt="CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness" width="720">
 </picture>
 
 <p>
@@ -16,10 +16,10 @@
 <p>UNC Chapel Hill</p>
 
 <p>
-<img src="assets/btn_arxiv.svg" alt="arXiv (coming soon)" height="44">&ensp;
-<a href="https://github.com/xxiaoyuuuu/CRoS"><img src="assets/btn_code.svg" alt="Code" height="44"></a>&ensp;
-<a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="assets/btn_model.svg" alt="Model" height="44"></a>&ensp;
-<a href="#citation"><img src="assets/btn_bibtex.svg" alt="BibTeX" height="44"></a>
+<img src="assets/btn_arxiv.svg" alt="arXiv (coming soon)" height="38">&ensp;
+<a href="https://github.com/xxiaoyuuuu/CRoS"><img src="assets/btn_code.svg" alt="Code" height="38"></a>&ensp;
+<a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="assets/btn_model.svg" alt="Model" height="38"></a>&ensp;
+<a href="#citation"><img src="assets/btn_bibtex.svg" alt="BibTeX" height="38"></a>
 </p>
 
 </div>
