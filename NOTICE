@@ -1,0 +1,8 @@
+CRoS: Causality Reward on Scrambled CoTs
+Copyright 2026 Xiao Yu, Justin Chih-Yao Chen, Zaid Khan, Hyunji Lee and Mohit Bansal (UNC Chapel Hill)
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This repository contains a modified copy of verl (https://github.com/volcengine/verl) in verl/,
+Copyright 2023-2024 Bytedance Ltd. and/or its affiliates, licensed under the Apache License 2.0
+(see verl/LICENSE and verl/Notice.txt). Modifications are marked [CRoS] in the source.

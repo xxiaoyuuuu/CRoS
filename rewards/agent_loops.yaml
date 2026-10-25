@@ -1,0 +1,9 @@
+# Agent loops of the rewards that probe the CoT (selected in train.sh with rollout.agent.default_agent_loop).
+- name: early_answering
+  _target_: rewards.early_answering.EarlyAnsweringAgentLoop
+- name: adding_mistakes
+  _target_: rewards.adding_mistakes.AddingMistakesAgentLoop
+- name: cir
+  _target_: rewards.cir.CIRAgentLoop
+- name: sr
+  _target_: rewards.sr.SRAgentLoop

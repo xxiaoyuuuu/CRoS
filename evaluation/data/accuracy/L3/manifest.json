@@ -1,0 +1,63 @@
+{
+ "level": 3,
+ "size": 100,
+ "seed": 42,
+ "datasets": {
+  "aiw": {
+   "config": {
+    "max_entities": 10
+   },
+   "default_level": false,
+   "pkl_md5": "619c6d739a7cdeb9a2d1aa541c45fe0c",
+   "selection": "first 100 questions not in the training data and not of the friends type"
+  },
+  "survo": {
+   "config": {
+    "min_board_size": 4,
+    "max_board_size": 4,
+    "min_empty": 3,
+    "max_empty": 3
+   },
+   "default_level": false,
+   "pkl_md5": "ea11e247ad158341484efc973119ee65"
+  },
+  "zebra_puzzles": {
+   "config": {
+    "num_people": 5,
+    "num_characteristics": 5
+   },
+   "default_level": false,
+   "pkl_md5": "ef54faf6bf260de768ba75c17a36e69d"
+  },
+  "circuit_logic": {
+   "config": {
+    "min_terms": 5,
+    "max_terms": 8,
+    "min_inputs": 4,
+    "max_inputs": 6
+   },
+   "default_level": false,
+   "pkl_md5": "032d2a77bd37835b06bc77c477620473"
+  },
+  "puzzle24": {
+   "config": "library default",
+   "default_level": true,
+   "pkl_md5": "db457dffed908c0d7eec4117a78aca82"
+  },
+  "knights_knaves": {
+   "config": {
+    "n_people": 4
+   },
+   "default_level": false,
+   "pkl_md5": "cdb0f5f1d358165f903b9591c60a171f"
+  },
+  "countdown": {
+   "config": {
+    "min_numbers": 6,
+    "max_numbers": 8
+   },
+   "default_level": false,
+   "pkl_md5": "453d9f8dddaa93efad36d03eeb8792c3"
+  }
+ }
+}

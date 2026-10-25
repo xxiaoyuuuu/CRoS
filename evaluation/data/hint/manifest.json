@@ -1,0 +1,114 @@
+{
+ "size": 100,
+ "seed": 42,
+ "datasets": {
+  "simple_integration": {
+   "category": "algebra",
+   "pkl_md5": "465e8194ebb102fa0d8edb0c6d9c30bd"
+  },
+  "intermediate_integration": {
+   "category": "algebra",
+   "pkl_md5": "4f199edcb305c6fe132b981ae50944eb"
+  },
+  "word_sorting": {
+   "category": "algorithmic",
+   "pkl_md5": "96c81e22df5a07ffebe682161cfeff27"
+  },
+  "rotate_matrix": {
+   "category": "algorithmic",
+   "pkl_md5": "b8d128a66c82a052d38d5ce377ad0c8c"
+  },
+  "pool_matrix": {
+   "category": "algorithmic",
+   "pkl_md5": "2b00521f05bf53a47f0d5504836b60a8"
+  },
+  "binary_alternation": {
+   "category": "algorithmic",
+   "pkl_md5": "0098e504a66aa5753bbbfe8619c74ab8"
+  },
+  "basic_arithmetic": {
+   "category": "arithmetic",
+   "pkl_md5": "27ec334f40ca91a76620f44c7e9f5ac1"
+  },
+  "products": {
+   "category": "arithmetic",
+   "pkl_md5": "294051456715817316b1852cb5ceaf25"
+  },
+  "leg_counting": {
+   "category": "arithmetic",
+   "pkl_md5": "cfbf19a107336835321120c32db7c6a3"
+  },
+  "power_function": {
+   "category": "arithmetic",
+   "pkl_md5": "9ecc671c7d20cba6d6677c63046a7ba8"
+  },
+  "codeio": {
+   "category": "code",
+   "pkl_md5": "071b2309ebf1ecf549f829774671986c"
+  },
+  "number_sequence": {
+   "category": "cognition",
+   "pkl_md5": "3be3fd5d39d1400f2c0c2a25eb9bbbec"
+  },
+  "color_cube_rotation": {
+   "category": "cognition",
+   "pkl_md5": "1b0da8b5606842491e1d11924852ce79"
+  },
+  "needle_haystack": {
+   "category": "cognition",
+   "pkl_md5": "d861d991ee0d97bf67e1439e988136b3"
+  },
+  "boxnet": {
+   "category": "games",
+   "pkl_md5": "674088b3021cf7813955ec50b35b3a80"
+  },
+  "mahjong_puzzle": {
+   "category": "games",
+   "pkl_md5": "8fa02a9a885b0b1ccfb6045e19e4c371"
+  },
+  "mini_sudoku": {
+   "category": "games",
+   "pkl_md5": "6fefe16faf089bedcae929b9776a5965"
+  },
+  "survo": {
+   "category": "games",
+   "pkl_md5": "2dc9c2bf91ec1a8f4236d6099a11d4e5"
+  },
+  "simple_geometry": {
+   "category": "geometry",
+   "pkl_md5": "9d902819aafc72a77abee93b18af3853"
+  },
+  "family_relationships": {
+   "category": "graphs",
+   "pkl_md5": "3286f0009f7cbec8ecb20ca44b518c36"
+  },
+  "largest_island": {
+   "category": "graphs",
+   "pkl_md5": "6ed6f0e1a750dcbddee2875a0cc8abf1"
+  },
+  "acre": {
+   "category": "induction",
+   "pkl_md5": "25c0a3bab889ff3dbee5fa1964aeb463"
+  },
+  "syllogism": {
+   "category": "logic",
+   "pkl_md5": "a3482959b95360848e7656b8821bafdc"
+  },
+  "propositional_logic": {
+   "category": "logic",
+   "pkl_md5": "0adb784a8d8965d9f97183c0ae744b4b"
+  },
+  "self_reference": {
+   "category": "logic",
+   "pkl_md5": "40ee7fe9bdc0295cc6d629ebae72c971"
+  },
+  "aiw": {
+   "category": "logic",
+   "pkl_md5": "09c0a34b64e17cdb5dad2938bbe16cd6"
+  },
+  "coin_flip": {
+   "category": "probability",
+   "pkl_md5": "38f61cabeec60a8610ae113452a6ed01"
+  }
+ }
+}
