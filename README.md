@@ -13,10 +13,10 @@
 <p>UNC Chapel Hill</p>
 
 <p>
-<img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
-<a href="https://github.com/xxiaoyuuuu/CRoS"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-<a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-Hugging%20Face-FFD21E?style=for-the-badge" alt="Model"></a>
-<a href="#citation"><img src="https://img.shields.io/badge/BibTeX-Citation-4c4c4c?style=for-the-badge" alt="BibTeX"></a>
+<a href="#"><img src="https://img.shields.io/badge/arXiv-2b2b2b?style=flat&logo=arxiv&logoColor=white" alt="arXiv (coming soon)" height="28"></a>&ensp;
+<a href="https://github.com/xxiaoyuuuu/CRoS"><img src="https://img.shields.io/badge/Code-2b2b2b?style=flat&logo=github&logoColor=white" alt="Code" height="28"></a>&ensp;
+<a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="https://img.shields.io/badge/Model-2b2b2b?style=flat&logo=huggingface&logoColor=white" alt="Model" height="28"></a>&ensp;
+<a href="#citation"><img src="https://img.shields.io/badge/BibTeX-2b2b2b?style=flat&logo=latex&logoColor=white" alt="BibTeX" height="28"></a>
 </p>
 
 </div>
