@@ -1,6 +1,9 @@
 <div align="center">
 
-<h1>CRoS: Causality Reward on Scrambled CoTs<br>Improves Accuracy and Reasoning Faithfulness</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title_dark.svg">
+  <img src="assets/title.svg" alt="CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness" width="860">
+</picture>
 
 <p>
 <a href="https://xiaoyu-1217.github.io/">Xiao Yu</a>&emsp;
@@ -13,10 +16,10 @@
 <p>UNC Chapel Hill</p>
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/arXiv-2b2b2b?style=flat&logo=arxiv&logoColor=white" alt="arXiv (coming soon)" height="28"></a>&ensp;
-<a href="https://github.com/xxiaoyuuuu/CRoS"><img src="https://img.shields.io/badge/Code-2b2b2b?style=flat&logo=github&logoColor=white" alt="Code" height="28"></a>&ensp;
-<a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="https://img.shields.io/badge/Model-2b2b2b?style=flat&logo=huggingface&logoColor=white" alt="Model" height="28"></a>&ensp;
-<a href="#citation"><img src="https://img.shields.io/badge/BibTeX-2b2b2b?style=flat&logo=latex&logoColor=white" alt="BibTeX" height="28"></a>
+<img src="assets/btn_arxiv.svg" alt="arXiv (coming soon)" height="44">&ensp;
+<a href="https://github.com/xxiaoyuuuu/CRoS"><img src="assets/btn_code.svg" alt="Code" height="44"></a>&ensp;
+<a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="assets/btn_model.svg" alt="Model" height="44"></a>&ensp;
+<a href="#citation"><img src="assets/btn_bibtex.svg" alt="BibTeX" height="44"></a>
 </p>
 
 </div>
