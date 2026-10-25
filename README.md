@@ -1,6 +1,6 @@
 # CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness
 
-Xiao Yu · Justin Chih-Yao Chen · Zaid Khan · Hyunji Lee · Mohit Bansal
+[Xiao Yu](https://xiaoyu-1217.github.io/) · Justin Chih-Yao Chen · Zaid Khan · Hyunji Lee · Mohit Bansal
 
 UNC Chapel Hill
 
