@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title_dark.svg">
-  <img src="assets/title.svg" alt="CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness" width="720">
-</picture>
+<h1>CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness</h1>
 
 <p>
 <a href="https://xiaoyu-1217.github.io/">Xiao Yu</a>&emsp;
@@ -17,6 +14,7 @@
 
 <p>
 <img src="assets/btn_arxiv.svg" alt="arXiv (coming soon)" height="38">&ensp;
+<a href="#"><img src="assets/btn_project.svg" alt="Project Page" height="38"></a>&ensp;<!-- TODO: project page URL -->
 <a href="https://github.com/xxiaoyuuuu/CRoS"><img src="assets/btn_code.svg" alt="Code" height="38"></a>&ensp;
 <a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="assets/btn_model.svg" alt="Model" height="38"></a>&ensp;
 <a href="#citation"><img src="assets/btn_bibtex.svg" alt="BibTeX" height="38"></a>
