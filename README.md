@@ -14,7 +14,7 @@
 
 <p>
 <a href="https://arxiv.org/abs/2610.42054"><img src="assets/btn_arxiv.svg" alt="arXiv" height="38"></a>&ensp;
-<a href="#"><img src="assets/btn_project.svg" alt="Project Page" height="38"></a>&ensp;<!-- TODO: project page URL -->
+<a href="https://xxiaoyuuuu.github.io/CRoS-Page/"><img src="assets/btn_project.svg" alt="Project Page" height="38"></a>&ensp;
 <a href="https://github.com/xxiaoyuuuu/CRoS"><img src="assets/btn_code.svg" alt="Code" height="38"></a>&ensp;
 <a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="assets/btn_model.svg" alt="Model" height="38"></a>&ensp;
 <a href="#citation"><img src="assets/btn_bibtex.svg" alt="BibTeX" height="38"></a>
