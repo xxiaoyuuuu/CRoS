@@ -13,7 +13,7 @@
 <p>UNC Chapel Hill</p>
 
 <p>
-<img src="assets/btn_arxiv.svg" alt="arXiv (coming soon)" height="38">&ensp;
+<a href="https://arxiv.org/abs/2610.42054"><img src="assets/btn_arxiv.svg" alt="arXiv" height="38"></a>&ensp;
 <a href="#"><img src="assets/btn_project.svg" alt="Project Page" height="38"></a>&ensp;<!-- TODO: project page URL -->
 <a href="https://github.com/xxiaoyuuuu/CRoS"><img src="assets/btn_code.svg" alt="Code" height="38"></a>&ensp;
 <a href="https://huggingface.co/xxiaoyuuuu/Gemma-3-4B-IT-CRoS"><img src="assets/btn_model.svg" alt="Model" height="38"></a>&ensp;
@@ -145,11 +145,14 @@ All six models are released as PEFT LoRA adapters (r = 32) for `google/gemma-3-4
 ## Citation
 
 ```bibtex
-@article{yu2026cros,
-  title   = {CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness},
-  author  = {Yu, Xiao and Chen, Justin Chih-Yao and Khan, Zaid and Lee, Hyunji and Bansal, Mohit},
-  journal = {arXiv preprint},
-  year    = {2026}
+@misc{yu2026croscausalityrewardscrambled,
+      title={CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness},
+      author={Xiao Yu and Justin Chih-Yao Chen and Zaid Khan and Hyunji Lee and Mohit Bansal},
+      year={2026},
+      eprint={2610.42054},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2610.42054},
 }
 ```
 
